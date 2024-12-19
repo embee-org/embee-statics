@@ -1,3 +1,274 @@
 {
-	"borders": []
+	"borders": [
+		{
+			"id": 1,
+			"name": "Adam",
+			"img": "/images/proplayers/adam.png"
+		},
+		{
+			"id": 2,
+			"name": "Ambition",
+			"img": "/images/proplayers/ambition.png"
+		},
+		{
+			"id": 3,
+			"name": "Bang",
+			"img": "/images/proplayers/bang.jpg"
+		},
+		{
+			"id": 4,
+			"name": "BeBe",
+			"img": "/images/proplayers/bebe.png"
+		},
+		{
+			"id": 4,
+			"name": "Bengi",
+			"img": "/images/proplayers/bengi.png"
+		},
+		{
+			"id": 4,
+			"name": "BeryL",
+			"img": "/images/proplayers/beryl.png"
+		},
+		{
+			"id": 5,
+			"name": "Bin",
+			"img": "/images/proplayers/bin.png"
+		},
+		{
+			"id": 6,
+			"name": "Bwipo",
+			"img": "/images/proplayers/bwipo.png"
+		},
+		{
+			"id": 7,
+			"name": "Canyon",
+			"img": "/images/proplayers/canyon.png"
+		},
+		{
+			"id": 8,
+			"name": "Caps",
+			"img": "/images/proplayers/caps.png"
+		},
+		{
+			"id": 9,
+			"name": "Chovy",
+			"img": "/images/proplayers/chovy.png"
+		},
+		{
+			"id": 10,
+			"name": "Crisp",
+			"img": "/images/proplayers/crisp.png"
+		},
+		{
+			"id": 11,
+			"name": "Crown",
+			"img": "/images/proplayers/crown.png"
+		},
+		{
+			"id": 12,
+			"name": "CuVee",
+			"img": "/images/proplayers/cuvee.png"
+		},
+		{
+			"id": 13,
+			"name": "Deft",
+			"img": "/images/proplayers/deft.png"
+		},
+		{
+			"id": 14,
+			"name": "Doinb",
+			"img": "/images/proplayers/doinb.png"
+		},
+		{
+			"id": 15,
+			"name": "Dopa",
+			"img": "/images/proplayers/dopa.png"
+		},
+		{
+			"id": 16,
+			"name": "Doran",
+			"img": "/images/proplayers/doran.png"
+		},
+		{
+			"id": 17,
+			"name": "Easyhoon",
+			"img": "/images/proplayers/easyhoon.png"
+		},
+		{
+			"id": 18,
+			"name": "Effort",
+			"img": "/images/proplayers/effort.png"
+		},
+		{
+			"id": 19,
+			"name": "Faker",
+			"img": "/images/proplayers/faker.png"
+		},
+		{
+			"id": 20,
+			"name": "Gorilla",
+			"img": "/images/proplayers/gorilla.png"
+		},
+		{
+			"id": 21,
+			"name": "Gumayusi",
+			"img": "/images/proplayers/gumayusi.png"
+		},
+		{
+			"id": 22,
+			"name": "inSec",
+			"img": "/images/proplayers/insec.png"
+		},
+		{
+			"id": 23,
+			"name": "JackeyLove",
+			"img": "/images/proplayers/jackeylove.png"
+		},
+		{
+			"id": 24,
+			"name": "Kanavi",
+			"img": "/images/proplayers/kanavi.png"
+		},
+		{
+			"id": 25,
+			"name": "Keria",
+			"img": "/images/proplayers/keria.png"
+		},
+		{
+			"id": 26,
+			"name": "Khan",
+			"img": "/images/proplayers/khan.png"
+		},
+		{
+			"id": 26,
+			"name": "Kkoma",
+			"img": "/images/proplayers/kkoma.png"
+		},
+		{
+			"id": 27,
+			"name": "Knight",
+			"img": "/images/proplayers/knight.png"
+		},
+		{
+			"id": 28,
+			"name": "MadLife",
+			"img": "/images/proplayers/madlife.png"
+		},
+		{
+			"id": 29,
+			"name": "Marin",
+			"img": "/images/proplayers/marin.png"
+		},
+		{
+			"id": 30,
+			"name": "Mata",
+			"img": "/images/proplayers/mata.png"
+		},
+		{
+			"id": 31,
+			"name": "Nuguri",
+			"img": "/images/proplayers/nuguri.png"
+		},
+		{
+			"id": 32,
+			"name": "Oner",
+			"img": "/images/proplayers/oner.png"
+		},
+		{
+			"id": 33,
+			"name": "Pawn",
+			"img": "/images/proplayers/pawn.png"
+		},
+		{
+			"id": 34,
+			"name": "Peanut",
+			"img": "/images/proplayers/peanut.png"
+		},
+		{
+			"id": 35,
+			"name": "Piglet",
+			"img": "/images/proplayers/piglet.png"
+		},
+		{
+			"id": 36,
+			"name": "Pray",
+			"img": "/images/proplayers/pray.png"
+		},
+		{
+			"id": 37,
+			"name": "Rekkles",
+			"img": "/images/proplayers/rekkles.png"
+		},
+		{
+			"id": 38,
+			"name": "Rookie",
+			"img": "/images/proplayers/rookie.png"
+		},
+		{
+			"id": 39,
+			"name": "Ruler",
+			"img": "/images/proplayers/ruler.png"
+		},
+		{
+			"id": 40,
+			"name": "Ryu",
+			"img": "/images/proplayers/ryu.png"
+		},
+		{
+			"id": 41,
+			"name": "Scout",
+			"img": "/images/proplayers/scout.png"
+		},
+		{
+			"id": 42,
+			"name": "Showmaker",
+			"img": "/images/proplayers/showmaker.png"
+		},
+		{
+			"id": 43,
+			"name": "Smeb",
+			"img": "/images/proplayers/smeb.png"
+		},
+		{
+			"id": 44,
+			"name": "sOAZ",
+			"img": "/images/proplayers/soaz.png"
+		},
+		{
+			"id": 45,
+			"name": "TheShy",
+			"img": "/images/proplayers/theshy.png"
+		},
+		{
+			"id": 46,
+			"name": "Uzi",
+			"img": "/images/proplayers/uzi.png"
+		},
+		{
+			"id": 47,
+			"name": "Viper",
+			"img": "/images/proplayers/viper.png"
+		},
+		{
+			"id": 48,
+			"name": "Wolf",
+			"img": "/images/proplayers/wolf.png"
+		},
+		{
+			"id": 49,
+			"name": "xPeke",
+			"img": "/images/proplayers/xpeke.png"
+		},
+		{
+			"id": 50,
+			"name": "YellOwStaR",
+			"img": "/images/proplayers/yellowstar.png"
+		},
+		{
+			"id": 51,
+			"name": "Zeus",
+			"img": "/images/proplayers/zeus.png"
+		}
+	]
 }
